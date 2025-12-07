@@ -7,9 +7,9 @@ chrome1 = (623, 24)
 chrome2 = (1617, 19)
 chrome3 = (2579, 26)
 
-mesaj1 = "@yousefalmalta  @hamzayildirim2011 @bera.tmanxd❤️ اللهماستغفر الله العظيم وأتوب إليه ﷺ ❤️"
-mesaj2 = "@yousefalmalta  @malektayfur @bera.tmanxd❤️ اللهم ارزقنا حبك وحب من يحبك"
-mesaj3 = "❤️@hamzayildirim2011  @yousefalmalta @malektayfur اللهم اجعل القرآن ربيع قلوبنا"
+mesaj1 = "text1"
+mesaj2 = "text2"
+mesaj3 = "text3"
 
 sleep(5)
 
@@ -35,3 +35,4 @@ for i in range(10):
     pyautogui.hotkey("ctrl", "v")
     pyautogui.press("enter")
     sleep(0.3)
+
